@@ -6,8 +6,6 @@
 #include <netinet/in.h> 
 #include <string.h> 
 
-#define PORT 8080
-
 //https://www.geeksforgeeks.org/socket-programming-cc/
 int main(int argc, char const *argv[])
 {
